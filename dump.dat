@@ -1,0 +1,25 @@
+(lp1
+S'one'
+p2
+aS'two'
+p3
+aS'three'
+p4
+aS'four'
+p5
+aS'five'
+p6
+a.(dp1
+S'Entry one'
+p2
+S'Value one'
+p3
+sS'Entry two'
+p4
+S'Value two'
+p5
+sS'Entry three'
+p6
+S'Value three'
+p7
+s.
